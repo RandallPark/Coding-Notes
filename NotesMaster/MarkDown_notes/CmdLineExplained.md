@@ -1,5 +1,14 @@
 #Command line Functions
 
+### Hot Commands added
+to got go VS Code set up for:  
+```
+$ code .
+```
+
+### Regular command line explained
+
+
 * "man" for manual
 
 ```

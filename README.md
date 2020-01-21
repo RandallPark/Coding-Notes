@@ -1,2 +1,5 @@
 # Coding-Notes
-These notes are a reference from coding challenge I have run into.
+Reference notes from coding challenge.
+
+# Repos of interest:
+- https://github.com/jgm/pandoc
